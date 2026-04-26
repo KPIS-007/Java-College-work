@@ -1,4 +1,4 @@
-public class BankAccount {
+public class pr10{
 
     // Instance variables
     private String accountHolderName;
